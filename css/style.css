@@ -34,6 +34,9 @@ a {
 .navbar{
     display:flex;
     justify-content:space-around;
+    font-family: 'Baloo Bhaijaan', cursive;
+    font-size: 20px;
+
 }
 
 .footer{
@@ -49,6 +52,7 @@ a {
 .header{
     display:flex;
     justify-content:center;
+    font-size: 40px;
 }
 
 .container{
@@ -74,5 +78,8 @@ a {
 
 .leftPane{
     padding:2px;
-    font-family: 'Oswald', sans-serif;
+}
+
+.aboutMain{
+    font-family: 'Baloo Bhaijaan', cursive;
 }
